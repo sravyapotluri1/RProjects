@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "creditcard <- read.csv(\"C:/Users/v-srpot/Documents/R/creditcard.csv\")\n",
+    "created" : 1516315082208.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2999717035",
+    "id" : "462D7734",
+    "lastKnownWriteTime" : 1516316028,
+    "last_content_update" : 1516316028328,
+    "path" : "C:/RProjects/CreditCardFraud/ccfscript.R",
+    "project_path" : "CreditCardFraud/ccfscript.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
